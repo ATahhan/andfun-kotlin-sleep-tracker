@@ -29,5 +29,4 @@ It also uses and builds on the following techniques from previous lessons:
 ![Screenshot3](screenshots/sleep_quality_tracker_quality.png)
 
 ## Original Repo
-https://github.com/udacity/andfun-kotlin-sleep-tracker <br>
-https://github.com/udacity/andfun-kotlin-sleep-tracker-with-recyclerview
+https://github.com/udacity/andfun-kotlin-sleep-tracker
